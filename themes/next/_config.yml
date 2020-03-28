@@ -290,7 +290,7 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default).
-  host: //fonts.googleapis.com
+  host: //fonts.loli.net
 
   # Font options:
   # `external: true` will load this font family from `host` above.
@@ -308,7 +308,7 @@ font:
   headings:
     external: true
     family: Sen
-    size: 22px
+    size: 30px
 
   # Font settings for posts.
   # Fallback to `global` font settings.
@@ -321,7 +321,7 @@ font:
   logo:
     external: true
     family: Sen
-    size: 20px
+    size: 25px
 
   # Font settings for <code> and code blocks.
   codes:
