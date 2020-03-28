@@ -135,6 +135,7 @@ social:
 social_icons:
   enable: true
   GitHub: github
+  E-Mail: envelope
   Twitter: twitter
   Blog: home
 
@@ -290,7 +291,7 @@ highlight_theme: normal
 # Arial | Tahoma | Helvetica | Times New Roman | Courier New | Verdana | Georgia | Palatino | Garamond | Comic Sans MS | Trebuchet MS
 # ---------------------------------------------------------------
 font:
-  enable: false
+  enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default).
   host: //fonts.googleapis.com
@@ -695,7 +696,7 @@ pace_theme: pace-theme-minimal
 canvas_nest: false
 
 # three_waves
-three_waves: false
+three_waves: true
 
 # canvas_lines
 canvas_lines: false
